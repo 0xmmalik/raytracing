@@ -13,7 +13,7 @@
 
 **Specifics:** A ray tracer uses basic principles of optics (e.g., reflection, refraction, etc.). It traces every light ray from a source to a certain object, determines if it intersects that object, and at what angle it does so (in order to determine the color of that specific pixel). Java proves a useful language for this, as Object-Oriented Programming is helpful when dealing with multiple instances of a type of object. Furthermore, rendering and displaying graphics is a lot simpler with Java than with several other languages (e.g., Python). 
 
-**Further Research:** To learn more about ray tracers, click [here](https://en.wikipedia.org/wiki/Ray_tracing_(graphics). To learn more about Object-Oriented Programming, click [here](https://en.wikipedia.org/wiki/Object-oriented_programming). To learn more about Java, click [here](https://en.wikipedia.org/wiki/Java_(programming_language). Finally, to learn more about CGI, click [here](https://en.wikipedia.org/wiki/Computer-generated_imagery)
+**Further Research:** To learn more about ray tracers, click [here](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). To learn more about Object-Oriented Programming, click [here](https://en.wikipedia.org/wiki/Object-oriented_programming)). To learn more about Java, click [here](https://en.wikipedia.org/wiki/Java_(programming_language). Finally, to learn more about CGI, click [here](https://en.wikipedia.org/wiki/Computer-generated_imagery)
 
 ### Release Updates
 
