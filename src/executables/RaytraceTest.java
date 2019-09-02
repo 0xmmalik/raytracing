@@ -4,12 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import components.Color;
-import components.Item;
-import components.Material;
-import components.Scene;
-import components.Sphere;
-import components.Vector;
+import components.*;
 
 public class RaytraceTest
 {
@@ -20,7 +15,7 @@ public class RaytraceTest
 		ArrayList<Item> sphere = new ArrayList<>();
 		sphere.add(new Sphere(new Vector(3, 0, -5), 2, new Material(new Color(0, 257, 0), 14)));
 		Scene s = new Scene(sphere, light);
-		File outFile = new File("FILE_LOCATION");
+		File outFile = new File("FILEPATH"); // FILL IN THIS LINE
 		try {
 			s.raytrace(outFile);
 		} catch (IOException e) {
