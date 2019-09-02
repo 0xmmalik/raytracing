@@ -66,23 +66,5 @@ public class Scene
 		}
 		
 		ImageIO.write(img, "png", outFile);
-		
-	}
-
-	public static void main(String[] args)
-	{
-		System.out.println("Hello world");
-		System.out.println("Goodbye world");
-		ArrayList<Vector> light = new ArrayList<>();
-		light.add(new Vector((float)8.7, (float)8.9, (float)-9.8));
-		ArrayList<Item> sphere = new ArrayList<>();
-		sphere.add(new Sphere(new Vector(3, 0, -5), 2, new Material(new Color(0, 257, 0), 14)));
-		Scene s = new Scene(sphere, light);
-		File outFile = new File("/Users/988111/Desktop/raytrace.png");
-		try {
-			s.raytrace(outFile);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
 	}
 }
