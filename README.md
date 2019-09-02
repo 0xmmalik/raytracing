@@ -1,5 +1,6 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/0xmmalik/raytracing/badge)](https://www.codefactor.io/repository/github/0xmmalik/raytracing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![GitHub manifest version](https://img.shields.io/github/manifest-json/v/0xmmalik/raytracing)
 
 # Ray Tracer
 
