@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/0xmmalik/raytracing/badge)](https://www.codefactor.io/repository/github/0xmmalik/raytracing)
+
 # Ray Tracer
 
 ### Contents
