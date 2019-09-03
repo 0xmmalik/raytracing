@@ -13,12 +13,15 @@ public class RaytraceTest
 		ArrayList<Vector> light = new ArrayList<>();
 		light.add(new Vector((float)8.7, (float)8.9, (float)-9.8));
 		ArrayList<Item> sphere = new ArrayList<>();
-		sphere.add(new Sphere(new Vector(3, 0, -5), 2, new Material(new Color(0, 257, 0), 14)));
+		sphere.add(new Sphere(new Vector(0, 0, -8), 2, new Material(new Color(0, 257, 0), 14)));
 		Scene s = new Scene(sphere, light);
 		File outFile = new File("FILEPATH"); // FILL IN THIS LINE
-		try {
+		try
+		{
 			s.raytrace(outFile);
-		} catch (IOException e) {
+		}
+		catch (IOException e)
+		{
 			e.printStackTrace();
 		}
 	}
