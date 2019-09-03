@@ -1,7 +1,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/0xmmalik/raytracing/badge?style=for-the-badge)](https://www.codefactor.io/repository/github/0xmmalik/raytracing?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 ![GitHub All Releases](https://img.shields.io/github/downloads/0xmmalik/raytracing/total?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues-raw/0xmmalik/raytracing?style=for-the-badge)
+![ERROR: download badge failed to load](https://img.shields.io/github/issues-raw/0xmmalik/raytracing?style=for-the-badge)
 
 # Ray Tracer
 
