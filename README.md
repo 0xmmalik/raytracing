@@ -1,3 +1,4 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/0xmmalik/raytracing)
 [![CodeFactor](https://www.codefactor.io/repository/github/0xmmalik/raytracing/badge?style=for-the-badge)](https://www.codefactor.io/repository/github/0xmmalik/raytracing?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 ![GitHub All Releases](https://img.shields.io/github/downloads/0xmmalik/raytracing/total?style=for-the-badge)
