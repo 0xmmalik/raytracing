@@ -4,6 +4,8 @@
 
 # Ray Tracer
 
+[REPORT BUG](https://docs.google.com/forms/d/e/1FAIpQLSe_YcEay9wLVpncyxdMqbV3kVaUTyBlnpiLnB8w4T-EwRmyug/viewform?usp=sf_link)
+
 ### Contents
 
 
