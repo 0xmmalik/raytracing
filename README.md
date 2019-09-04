@@ -33,3 +33,5 @@ Actually, Google Searches for ray tracing were on an all-time high in August of 
 
 * Sept. 2, 2019 -- v0.48
 	* Initial code with 48% functional ray-tracer. Many times, the output image is obviously inaccurate.
+* Sept. 3, 2019 -- v0.48-2
+	* No change in functionality. Tester class was updated and improved.
