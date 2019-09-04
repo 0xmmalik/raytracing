@@ -27,7 +27,7 @@
 
 ### Search Popularity
 
-Actually, Google Searches for ray tracing were on an all-time high in August of 2019. Now, in the September of that year, they've hit another all-time high. Thus, it seems that the popularity is increasing. Click [here](https://trends.google.com/trends/explore?date=all&geo=US&q=%2Fm%2F06h2c) for a helpful graphic from [Google Trends](trends.google.com)... Additionally, for the first time in the 15 years of data recorded, ray tracing has had a greater popularity than CGI in August of 2019. During this time period, most states in the US had more searches for ray tracing than they did for CGI. Click [here](https://trends.google.com/trends/explore?date=all&geo=US&q=%2Fm%2F06h2c,%2Fm%2F021ny) for the graphic.
+Actually, Google Searches for ray tracing were on an all-time high in August of 2019. Now, in the September of that year, they've hit another all-time high. Thus, it seems that the popularity is increasing. Click [here](https://trends.google.com/trends/explore?date=all&geo=US&q=%2Fm%2F06h2c) for a helpful graphic from [Google Trends](trends.google.com)... Additionally, for the first time in the 15 years of data recorded, ray tracing has had a greater popularity than CGI in August of 2019 (this is still occuring now, in September 2019). During this time period, most states in the US had more searches for ray tracing than they did for CGI. Click [here](https://trends.google.com/trends/explore?date=all&geo=US&q=%2Fm%2F06h2c,%2Fm%2F021ny) for the graphic.
 
 ### Release Updates
 
