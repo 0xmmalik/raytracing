@@ -8,7 +8,7 @@ import components.*;
 
 public class RaytraceTest
 {
-	public static void main(String[] args)
+	public static void main(String[] args) throws IOException
 	{
 		ArrayList<Vector> light = new ArrayList<>();
 		light.add(new Vector((float)8.7, (float)8.9, (float)-9.8));
@@ -16,13 +16,6 @@ public class RaytraceTest
 		sphere.add(new Sphere(new Vector(0, 0, -8), 2, new Material(new Color(0, 257, 0), 14)));
 		Scene s = new Scene(sphere, light);
 		File outFile = new File("FILEPATH"); // FILL IN THIS LINE
-		try
-		{
-			s.raytrace(outFile);
-		}
-		catch (IOException e)
-		{
-			e.printStackTrace();
-		}
+		s.raytrace(outFile);
 	}
 }
