@@ -27,7 +27,7 @@
 
 ### Search Popularity
 
-Actually, Google Searches for ray tracing were on an all-time high in August of 2019. Now, in the September of that year, they are also extremely high. Click [here](https://trends.google.com/trends/explore?date=all&geo=US&q=%2Fm%2F06h2c) for a helpful graphic from [Google Trends](trends.google.com)...
+Actually, Google Searches for ray tracing were on an all-time high in August of 2019. Now, in the September of that year, they've hit another all-time high. Thus, it seems that the popularity is increasing. Click [here](https://trends.google.com/trends/explore?date=all&geo=US&q=%2Fm%2F06h2c) for a helpful graphic from [Google Trends](trends.google.com)...
 
 ### Release Updates
 
