@@ -1,11 +1,17 @@
 package executables;
 
+import java.awt.Desktop;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import components.*;
+import components.Color;
+import components.Item;
+import components.Material;
+import components.Scene;
+import components.Sphere;
+import components.Vector;
 
 public class Raytracer
 {
@@ -13,7 +19,7 @@ public class Raytracer
 	
 	public static void main(String[] args) throws IOException
 	{
-		System.out.print("Output Filename: ");
+		System.out.print("Output Filename (use .png or .jpg extensions): ");
 		String filename = input.nextLine();
 		ArrayList<Item> items = new ArrayList<>();
 		int numSpheres = inputInt("Number of Spheres: ", 1)[0];
@@ -29,7 +35,18 @@ public class Raytracer
 		lightsource.add(new Vector(lightPos[0], lightPos[1], lightPos[2]));
 		
 		Scene s = new Scene(items, lightsource);
-		s.raytrace(new File(filename));
+		File outputFile = new File(filename);
+		s.raytrace(outputFile);
+		
+		if(Desktop.isDesktopSupported())
+		{
+			Desktop desktop = Desktop.getDesktop();
+			desktop.open(outputFile);
+		}
+		else
+		{
+			System.out.println("File saved...");
+		}
 	}
 	
 	public static int[] inputInt(String question, int nums)
